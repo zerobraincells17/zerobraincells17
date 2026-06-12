@@ -328,7 +328,7 @@ Building machine learning systems, forecasting solutions, and computer vision ap
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zerobraincells17&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -338,7 +338,7 @@ Building machine learning systems, forecasting solutions, and computer vision ap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zerobraincells17&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -348,7 +348,7 @@ Building machine learning systems, forecasting solutions, and computer vision ap
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/zerobraincells17/zerobraincells17/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
